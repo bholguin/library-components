@@ -1,0 +1,8 @@
+{
+    "name": "Button",
+    "version": "0.0.1",
+    "main": "index.js",
+    "author": "Brayhan Holguin",
+    "license": "ISC",
+    "description": "Componente Button"
+  }
