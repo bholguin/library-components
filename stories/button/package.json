@@ -4,5 +4,6 @@
     "main": "index.js",
     "author": "Brayhan Holguin",
     "license": "ISC",
-    "description": "Componente Button"
+    "description": "Componente Button",
+    "gitHead": "f4c8fce3ad584c26934033af1090aacbe343f59c"
 }
