@@ -1,9 +1,0 @@
-{
-    "name": "@bholguin/library-components/Button",
-    "version": "0.0.3",
-    "main": "index.js",
-    "author": "Brayhan Holguin",
-    "license": "ISC",
-    "description": "Componente Button",
-    "gitHead": "0d9f4c0ccaa98a650773703648e61175aa0e8043"
-}
